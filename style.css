@@ -1,0 +1,8 @@
+.containerHeader{
+    display: flex;
+    justify-content: space-around;
+}
+.logoHeader{
+    width: 250px;
+    height: auto;    
+}

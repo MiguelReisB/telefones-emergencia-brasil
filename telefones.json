@@ -1,0 +1,492 @@
+[
+{
+    "nome": "Direitos Humanos",
+    "numero": "100",
+    "descricao": "Canal para relatar violações de direitos humanos, como violência contra crianças, idosos, pessoas com deficiência e outros grupos vulneráveis.",
+    "link": "https://www.gov.br/mdh/pt-br/ondh"
+},
+{
+    "nome": "Programa de Emprego/Renda - Caixa",
+    "numero": "111",
+    "descricao": "Central de informações da Caixa Econômica Federal sobre benefícios sociais, como o Bolsa Família, e programas de geração de renda.",
+    "link": "https://www.caixa.gov.br/programas-sociais/Paginas/default.aspx"
+},
+{
+    "nome": "Número Internacional de Emergência",
+    "numero": "112",
+    "descricao": "Número de emergência aceito em celulares no Brasil, redirecionado para o 190 (Polícia Militar).",
+    "link": "https://tecnoblog.net/noticias/anatel-aprova-numeros-911-112-emergencia-brasil/"
+},
+{
+    "nome": "Conselhos Tutelares",
+    "numero": "125",
+    "descricao": "Contato para Conselhos Tutelares, responsáveis por proteger os direitos de crianças e adolescentes.",
+    "link": "https://www.gov.br/mdh/pt-br/navegue-por-temas/crianca-e-adolescente/conselhos-tutelares"
+},
+{
+    "nome": "Emergência Mercosul",
+    "numero": "128",
+    "descricao": "Número de emergência para turistas do Mercosul, podendo não estar ativo em todas as regiões.",
+    "link": "https://www.mercosur.int/"
+},
+{
+    "nome": "Atendimento a Dependentes Químicos",
+    "numero": "132",
+    "descricao": "Serviço de apoio e informações sobre uso de drogas e álcool, com suporte para usuários e familiares.",
+    "link": "https://mdbf.com.br/artigo/numeros-de-emergencia/"
+},
+{
+    "nome": "Guarda Municipal",
+    "numero": "153",
+    "descricao": "Número para acionar a Guarda Civil Municipal, que atua na segurança local e proteção do patrimônio público.",
+    "link": "https://www.gov.br/anatel/pt-br/assuntos/noticias/operadoras-deverao-programar-numero-153-da-guarda-municipal-como-servico-publico-de-emergencia"
+},
+{
+    "nome": "Central de Atendimento à Mulher",
+    "numero": "180",
+    "descricao": "Canal para denúncias de violência contra a mulher, com acolhimento e orientação sobre direitos e serviços.",
+    "link": "https://www.gov.br/mdh/pt-br/ligue180"
+},
+{
+    "nome": "Disque Denúncia",
+    "numero": "181",
+    "descricao": "Canal para denúncias anônimas sobre crimes, como tráfico de drogas e violência.",
+    "link": "https://pt.wikipedia.org/wiki/Disque_Den%C3%BAncia"
+},
+{
+    "nome": "Marinha - Salvamento Marítimo/Fluvial",
+    "numero": "185",
+    "descricao": "Serviço de emergência da Marinha para resgates no mar ou em rios.",
+    "link": "https://www.marinha.mil.br/salvamar-brasil/"
+},
+{
+    "nome": "Linha da Vida (CVV)",
+    "numero": "188",
+    "descricao": "Apoio emocional e prevenção do suicídio, oferecido pelo Centro de Valorização da Vida (CVV).",
+    "link": "https://www.cvv.org.br/"
+},
+{
+    "nome": "Polícia Militar",
+    "numero": "190",
+    "descricao": "Número de emergência para acionar a Polícia Militar em casos de crimes ou situações de perigo imediato.",
+    "link": "https://fdr.com.br/2025/08/11/190-192-ou-193-entenda-para-qual-numero-ligar-em-caso-de-emergencia/"
+},
+{
+    "nome": "Polícia Rodoviária Federal",
+    "numero": "191",
+    "descricao": "Emergências e denúncias em rodovias federais, como acidentes e crimes.",
+    "link": "https://www.gov.br/prf/pt-br"
+},
+{
+    "nome": "SAMU",
+    "numero": "192",
+    "descricao": "Serviço de ambulância para emergências médicas e atendimento pré-hospitalar rápido.",
+    "link": "https://fdr.com.br/2025/08/11/190-192-ou-193-entenda-para-qual-numero-ligar-em-caso-de-emergencia/"
+},
+{
+    "nome": "Corpo de Bombeiros",
+    "numero": "193",
+    "descricao": "Emergências como incêndios, resgates e desastres naturais.",
+    "link": "https://fdr.com.br/2025/08/11/190-192-ou-193-entenda-para-qual-numero-ligar-em-caso-de-emergencia/"
+},
+{
+    "nome": "Polícia Federal",
+    "numero": "194",
+    "descricao": "Canal para denúncias de crimes federais, como contrabando e crimes cibernéticos.",
+    "link": "https://www.gov.br/pf/pt-br/acesso-a-informacao/institucional/quem-e-quem"
+},
+{
+    "nome": "SABESP",
+    "numero": "195",
+    "descricao": "Atendimento para emergências de água e esgoto no estado de São Paulo.",
+    "link": "https://site.sabesp.com.br/"
+},
+{
+    "nome": "Apoio COVID-19",
+    "numero": "196",
+    "descricao": "Informações e orientações sobre COVID-19 e saúde em geral, disponível em alguns estados.",
+    "link": "https://ictq.com.br/farmacia-clinica/2319-pais-tera-linha-de-emergencia-para-atender-pessoas-com-doenca-mental"
+},
+{
+    "nome": "Polícia Civil",
+    "numero": "197",
+    "descricao": "Denúncias e informações sobre investigações criminais junto à Polícia Civil.",
+    "link": "https://pt.wikipedia.org/wiki/Pol%C3%ADcia_Civil_do_Brasil"
+},
+{
+    "nome": "Polícia Rodoviária Estadual",
+    "numero": "198",
+    "descricao": "Emergências e informações sobre trânsito em rodovias estaduais.",
+    "link": "https://www.seguranca.pr.gov.br/Telefones-Uteis"
+},
+{
+    "nome": "Defesa Civil",
+    "numero": "199",
+    "descricao": "Atendimento em desastres naturais, como enchentes e deslizamentos, e ações preventivas.",
+    "link": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil"
+},
+
+{
+    "nome": "Energisa Acre - Falta de Energia",
+    "numero": "0800 647 7196",
+    "descricao": "Distribuidora de energia elétrica do estado do Acre. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+{
+    "nome": "Equatorial Alagoas - Falta de Energia",
+    "numero": "0800 082 0196",
+    "descricao": "Distribuidora de energia elétrica do estado de Alagoas. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://al.equatorialenergia.com.br"
+},
+{
+    "nome": "CEA Equatorial Amapá - Falta de Energia",
+    "numero": "0800 096 0196",
+    "descricao": "Distribuidora de energia elétrica do estado do Amapá. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://ap.equatorialenergia.com.br"
+},
+{
+    "nome": "Amazonas Energia - Falta de Energia",
+    "numero": "0800 701 3001",
+    "descricao": "Distribuidora de energia elétrica do estado do Amazonas. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://website.amazonasenergia.com"
+},
+{
+    "nome": "Neoenergia Coelba - Falta de Energia (BA)",
+    "numero": "116",
+    "descricao": "Distribuidora de energia elétrica do estado da Bahia. Número único nacional para falta de energia e emergências.",
+    "link": "https://www.neoenergia.com/web/bahia"
+},
+{
+    "nome": "Enel Ceará - Falta de Energia",
+    "numero": "0800 285 0196",
+    "descricao": "Distribuidora de energia elétrica do estado do Ceará. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.enel.com.br/pt-ceara"
+},
+{
+    "nome": "Neoenergia Brasília - Falta de Energia (DF)",
+    "numero": "0800 644 6116",
+    "descricao": "Distribuidora de energia elétrica do Distrito Federal. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.neoenergia.com/web/brasilia"
+},
+{
+    "nome": "EDP Espírito Santo - Falta de Energia",
+    "numero": "0800 721 0707",
+    "descricao": "Distribuidora de energia elétrica do estado do Espírito Santo. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.edp.com.br"
+},
+{
+    "nome": "Equatorial Goiás - Falta de Energia",
+    "numero": "0800 062 0196",
+    "descricao": "Distribuidora de energia elétrica do estado de Goiás. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://go.equatorialenergia.com.br"
+},
+{
+    "nome": "Equatorial Maranhão (Cemar) - Falta de Energia",
+    "numero": "116",
+    "descricao": "Distribuidora de energia elétrica do estado do Maranhão. Número único nacional para falta de energia e emergências.",
+    "link": "https://ma.equatorialenergia.com.br"
+},
+{
+    "nome": "Energisa Mato Grosso - Falta de Energia",
+    "numero": "0800 646 4196",
+    "descricao": "Distribuidora de energia elétrica do estado de Mato Grosso. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+{
+    "nome": "Energisa Mato Grosso do Sul - Falta de Energia",
+    "numero": "0800 722 7272",
+    "descricao": "Distribuidora de energia elétrica do estado de Mato Grosso do Sul. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+{
+    "nome": "Cemig - Falta de Energia (MG)",
+    "numero": "116",
+    "descricao": "Distribuidora de energia elétrica do estado de Minas Gerais. Número único nacional para falta de energia e emergências.",
+    "link": "https://www.cemig.com.br"
+},
+{
+    "nome": "Equatorial Pará (Celpa) - Falta de Energia",
+    "numero": "0800 091 0196",
+    "descricao": "Distribuidora de energia elétrica do estado do Pará. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://pa.equatorialenergia.com.br"
+},
+{
+    "nome": "Energisa Paraíba - Falta de Energia",
+    "numero": "0800 083 0196",
+    "descricao": "Distribuidora de energia elétrica de parte do estado da Paraíba. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+{
+    "nome": "Copel - Falta de Energia (PR)",
+    "numero": "0800 510 0116",
+    "descricao": "Distribuidora de energia elétrica do estado do Paraná. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.copel.com"
+},
+{
+    "nome": "Neoenergia Pernambuco (Celpe) - Falta de Energia",
+    "numero": "116",
+    "descricao": "Distribuidora de energia elétrica do estado de Pernambuco. Número único nacional para falta de energia e emergências.",
+    "link": "https://www.neoenergia.com/web/pernambuco"
+},
+{
+    "nome": "Equatorial Piauí (Cepisa) - Falta de Energia",
+    "numero": "0800 086 0800",
+    "descricao": "Distribuidora de energia elétrica do estado do Piauí. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://pi.equatorialenergia.com.br"
+},
+{
+    "nome": "Light - Falta de Energia (RJ)",
+    "numero": "0800 282 0120",
+    "descricao": "Distribuidora de energia elétrica da região metropolitana do Rio de Janeiro. O interior do estado pode ser atendido pela Enel Rio.",
+    "link": "https://www.light.com.br"
+},
+{
+    "nome": "Neoenergia Cosern - Falta de Energia (RN)",
+    "numero": "116",
+    "descricao": "Distribuidora de energia elétrica do estado do Rio Grande do Norte. Número único nacional para falta de energia e emergências.",
+    "link": "https://www.neoenergia.com/web/rn"
+},
+{
+    "nome": "CEEE Equatorial - Falta de Energia (RS)",
+    "numero": "0800 721 2333",
+    "descricao": "Uma das distribuidoras de energia elétrica do estado do Rio Grande do Sul (parte do estado é atendida pela RGE).",
+    "link": "https://ceee.equatorialenergia.com.br"
+},
+{
+    "nome": "Energisa Rondônia - Falta de Energia",
+    "numero": "0800 647 0120",
+    "descricao": "Distribuidora de energia elétrica do estado de Rondônia. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+{
+    "nome": "Roraima Energia - Falta de Energia",
+    "numero": "0800 701 9120",
+    "descricao": "Distribuidora de energia elétrica do estado de Roraima. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.roraimaenergia.com.br"
+},
+{
+    "nome": "Celesc - Falta de Energia (SC)",
+    "numero": "0800 048 0196",
+    "descricao": "Distribuidora de energia elétrica do estado de Santa Catarina. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.celesc.com.br"
+},
+{
+    "nome": "Enel São Paulo - Falta de Energia",
+    "numero": "0800 72 72 196",
+    "descricao": "Distribuidora de energia elétrica da região metropolitana e parte do interior de São Paulo. Outras regiões do estado são atendidas por CPFL e EDP.",
+    "link": "https://www.enel.com.br/pt-saopaulo.html"
+},
+{
+    "nome": "Energisa Sergipe - Falta de Energia",
+    "numero": "0800 079 0196",
+    "descricao": "Distribuidora de energia elétrica do estado de Sergipe. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+{
+    "nome": "Energisa Tocantins - Falta de Energia",
+    "numero": "0800 721 3330",
+    "descricao": "Distribuidora de energia elétrica do estado do Tocantins. Emergências, falta de luz e atendimento comercial.",
+    "link": "https://www.energisa.com.br"
+},
+
+{
+    "nome": "SABESP - Água e Esgoto (SP)",
+    "numero": "0800 055 0195",
+    "descricao": "Companhia de Saneamento Básico do Estado de São Paulo. Falta d'água, vazamentos e atendimento comercial.",
+    "link": "https://site.sabesp.com.br"
+},
+{
+    "nome": "CEDAE - Água e Esgoto (RJ)",
+    "numero": "0800 282 1195",
+    "descricao": "Companhia Estadual de Águas e Esgotos do Rio de Janeiro. Falta d'água, vazamentos e atendimento comercial.",
+    "link": "https://www.cedae.com.br"
+},
+{
+    "nome": "COPASA - Água e Esgoto (MG)",
+    "numero": "0800 030 0115",
+    "descricao": "Companhia de Saneamento de Minas Gerais. Falta d'água, vazamentos e atendimento comercial.",
+    "link": "https://www.copasa.com.br"
+},
+{
+    "nome": "CORSAN - Água e Esgoto (RS)",
+    "numero": "0800 646 6444",
+    "descricao": "Companhia Riograndense de Saneamento. Falta d'água, vazamentos e atendimento comercial no Rio Grande do Sul.",
+    "link": "https://www.corsan.com.br"
+},
+{
+    "nome": "COMPESA - Água e Esgoto (PE)",
+    "numero": "0800 081 0195",
+    "descricao": "Companhia Pernambucana de Saneamento. Falta d'água, vazamentos e atendimento comercial em Pernambuco.",
+    "link": "https://servicos.compesa.com.br"
+},
+{
+    "nome": "SANEAGO - Água e Esgoto (GO)",
+    "numero": "0800 645 0115",
+    "descricao": "Saneamento de Goiás. Falta d'água, vazamentos e atendimento comercial.",
+    "link": "https://www.saneago.com.br"
+},
+
+{
+    "nome": "Comgás - Emergência Gás Natural (SP)",
+    "numero": "0800 011 0197",
+    "descricao": "Distribuidora de gás natural canalizado da região metropolitana de São Paulo e outros municípios. Vazamentos e emergências 24h.",
+    "link": "https://www.comgas.com.br"
+},
+{
+    "nome": "Bahiagás - Gás Natural (BA)",
+    "numero": "(71) 3206-6000",
+    "descricao": "Companhia de Gás da Bahia, distribuidora estadual de gás natural canalizado.",
+    "link": "https://www.bahiagas.com.br"
+},
+{
+    "nome": "Cegás - Gás Natural (CE)",
+    "numero": "(85) 3266-6900",
+    "descricao": "Companhia de Gás do Ceará, distribuidora estadual de gás natural canalizado.",
+    "link": "https://www.cegas.com.br"
+},
+{
+    "nome": "Cigás - Gás Natural (AM)",
+    "numero": "0800 723 3202",
+    "descricao": "Companhia de Gás do Amazonas, distribuidora estadual de gás natural canalizado.",
+    "link": "https://www.cigas-am.com.br"
+},
+{
+    "nome": "CEG - Gás Natural (RJ)",
+    "numero": "(21) 3115-6565",
+    "descricao": "Companhia Distribuidora de Gás do Rio de Janeiro, distribuidora estadual de gás natural canalizado.",
+    "link": "https://www.ceg.com.br"
+},
+{
+    "nome": "CEBGÁS - Gás Natural (DF)",
+    "numero": "(61) 3322-2100",
+    "descricao": "Companhia Brasiliense de Gás, distribuidora de gás natural canalizado no Distrito Federal.",
+    "link": "https://www.cebgas.com.br"
+},
+
+{
+    "nome": "Anatel - Telefonia, Internet e TV por Assinatura",
+    "numero": "1331",
+    "descricao": "Agência Nacional de Telecomunicações. Reclamações e dúvidas sobre operadoras de telefonia fixa, móvel, internet e TV por assinatura em todo o Brasil (1332 para deficientes auditivos).",
+    "link": "https://www.gov.br/anatel/pt-br"
+},
+{
+    "nome": "INSS",
+    "numero": "135",
+    "descricao": "Instituto Nacional do Seguro Social. Informações sobre aposentadoria, benefícios, agendamentos e demais serviços previdenciários.",
+    "link": "https://www.gov.br/inss/pt-br"
+},
+{
+    "nome": "Disque Saúde",
+    "numero": "136",
+    "descricao": "Central de atendimento do Sistema Único de Saúde (SUS). Informações sobre vacinação, medicamentos, campanhas e serviços de saúde.",
+    "link": "https://www.gov.br/saude/pt-br"
+},
+{
+    "nome": "Ministério do Desenvolvimento Social",
+    "numero": "121",
+    "descricao": "Informações sobre programas sociais, como Bolsa Família, Cadastro Único e benefícios assistenciais.",
+    "link": "https://www.gov.br/mds/pt-br"
+},
+{
+    "nome": "Ministério Público",
+    "numero": "127",
+    "descricao": "Canal de contato com o Ministério Público para denúncias e informações institucionais.",
+    "link": "https://www.mpf.mp.br/"
+},
+{
+    "nome": "Defensorias Públicas",
+    "numero": "129",
+    "descricao": "Acesso à Defensoria Pública para orientação jurídica gratuita a quem não pode pagar advogado.",
+    "link": "https://www.gov.br/defensoria-publica-da-uniao/pt-br"
+},
+{
+    "nome": "Anatel",
+    "numero": "1331",
+    "descricao": "Agência Nacional de Telecomunicações. Reclamações e dúvidas sobre operadoras de telefonia, internet e TV por assinatura (código completo 133+1; 133+2 para deficientes auditivos).",
+    "link": "https://www.gov.br/anatel/pt-br"
+},
+{
+    "nome": "BACEN - Banco Central do Brasil",
+    "numero": "145",
+    "descricao": "Reclamações e denúncias contra bancos e instituições financeiras.",
+    "link": "https://www.bcb.gov.br/"
+},
+{
+    "nome": "Receita Federal do Brasil",
+    "numero": "146",
+    "descricao": "Informações sobre Imposto de Renda, CPF, CNPJ e demais serviços da Receita Federal.",
+    "link": "https://www.gov.br/receitafederal/pt-br"
+},
+{
+    "nome": "Justiça Eleitoral",
+    "numero": "148",
+    "descricao": "Informações sobre título de eleitor, zona eleitoral e demais serviços do TSE.",
+    "link": "https://www.tse.jus.br/"
+},
+{
+    "nome": "Vigilância Sanitária",
+    "numero": "150",
+    "descricao": "Denúncias e informações sobre segurança sanitária de alimentos, produtos e estabelecimentos.",
+    "link": "https://www.gov.br/anvisa/pt-br"
+},
+{
+    "nome": "Procon",
+    "numero": "151",
+    "descricao": "Proteção e Defesa do Consumidor. Reclamações sobre produtos e serviços.",
+    "link": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor"
+},
+{
+    "nome": "IBAMA",
+    "numero": "152",
+    "descricao": "Denúncias ambientais, como desmatamento, maus-tratos a animais silvestres e crimes ambientais.",
+    "link": "https://www.gov.br/ibama/pt-br"
+},
+{
+    "nome": "Detran",
+    "numero": "154",
+    "descricao": "Departamento Estadual de Trânsito. Informações sobre CNH, veículos e infrações (varia por estado).",
+    "link": "https://www.gov.br/infraestrutura/pt-br/assuntos/transito"
+},
+{
+    "nome": "Serviço Municipal (156)",
+    "numero": "156",
+    "descricao": "Central de atendimento da prefeitura para serviços municipais, como poda de árvores, iluminação pública e coleta de lixo (varia por cidade).",
+    "link": "https://www.gov.br/pt-br/servicos-estaduais"
+},
+{
+    "nome": "SINE - Informações Sobre Emprego",
+    "numero": "157",
+    "descricao": "Sistema Nacional de Emprego. Informações sobre vagas, seguro-desemprego e qualificação profissional.",
+    "link": "https://www.gov.br/trabalho-e-emprego/pt-br"
+},
+{
+    "nome": "Disque Idoso",
+    "numero": "165",
+    "descricao": "Canal de denúncias e orientações sobre violência, negligência ou maus-tratos contra pessoas idosas.",
+    "link": "https://www.gov.br/mdh/pt-br/navegue-por-temas/pessoa-idosa"
+},
+{
+    "nome": "ANEEL",
+    "numero": "167",
+    "descricao": "Agência Nacional de Energia Elétrica. Reclamações contra distribuidoras de energia, quando não resolvidas diretamente com a concessionária.",
+    "link": "https://www.gov.br/aneel/pt-br"
+},
+{
+    "nome": "ANP - Agência Nacional do Petróleo",
+    "numero": "164",
+    "descricao": "Denúncias e informações sobre combustíveis, gás natural e biocombustíveis.",
+    "link": "https://www.gov.br/anp/pt-br"
+},
+{
+    "nome": "ANTT - Agência Nacional de Transportes Terrestres",
+    "numero": "166",
+    "descricao": "Reclamações e informações sobre transporte rodoviário e ferroviário de passageiros e cargas.",
+    "link": "https://www.gov.br/antt/pt-br"
+},
+{
+    "nome": "ANAC - Agência Nacional de Aviação Civil",
+    "numero": "163",
+    "descricao": "Reclamações e informações sobre companhias aéreas, voos e direitos do passageiro.",
+    "link": "https://www.gov.br/anac/pt-br"
+}
+]

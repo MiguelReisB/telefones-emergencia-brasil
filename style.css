@@ -29,11 +29,14 @@
 }
 
 
-/* --------------------------- */
+/* Página */
 body{
     margin: 0;
     padding: 0;
-    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #4b7510;
 }
 header{
     font-family: 'ScienceGothic', 'Merriweather', serif;
@@ -43,29 +46,40 @@ header{
 }
 .containerHeader{
     display: flex;
+    flex-direction: row;
+    align-items: center;
     justify-content: space-around;
-    gap: 20px;
-    padding: 5px;
+    padding-bottom: 15px;
     margin: 0 auto;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 17px #000000;
 }
-.logoHeader{
-    width: auto;
-    height: 175px;
-    filter: drop-shadow(0px 10px 10px #1512c2);
-}
-.tituloHeader{
-    font-size: 2.2rem;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 30px;
+.logoTitulo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
 }
 .containerPesquisa{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 40px;
     gap: 10px;
 }
+.logoHeader{
+    width: auto;
+    height: 150px;
+    filter: drop-shadow(0px 10px 10px #1512c2);
+}
+.tituloHeader{
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+
 .barraDePesquisa{
     font-family: 'Roboto', 'Merriweather', serif;
     font-size: 1.3rem;
@@ -74,7 +88,7 @@ header{
     padding: 7px;
     border-radius: 15px;
     border: 2px solid #303030;
-    transition: all 0.2s ease;
+    transition: all 0.5s ease;
 }
 .barraDePesquisa:hover{
     border-color: #1512c2;
@@ -94,34 +108,121 @@ header{
     width: 120px;
     height: 50px;
     margin-left: 10px;
-    border-radius: 15px;
+    border-radius: 20px;
     border: none;
     background-color: #1512c2;
     color: white;
     cursor: pointer;
-    transition: 0.5s ease;
+    transition: all 0.5s ease;
 }
 .botaoPesquisa:hover{
-    background-color: #0c5dd6;
-    box-shadow: 0 0 10px #0c5dd6;
+    background-color: #1292ce;
+    box-shadow: 0 0 15px #1292ce;
 }
 .botaoPesquisa:active{
     transform: scale(0.85);
 }
 main{
-    max-width: 80rem;
-    margin: 0 auto; 
-    overflow-y: scroll;
-    background-color: #f6faf0;
+    flex: 1;
+    width: min(80rem, 100%);
+    margin: 0 auto;
+    overflow-y: auto;
+    background-color: #ffffff;
+    padding-bottom: 2rem;
+    box-sizing: border-box;
 }
-.cards-container {
+.cardsContainer {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
     padding: 20px;
 }
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #9deb28;
+    box-shadow: 0px 5px 15px #000000;
+}
+article{
+    font-family: 'Merriweather', 'Roboto', serif;
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+.nenhumResultadoCard {
+    grid-column: span 2 / span 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f6faf0;
+    box-shadow: 0px 5px 15px #000000;
+}
 footer{
-    bottom: 0; 
-    left: 0;
-    width: 100%; 
+    width: 100%;
+    font-family: 'Capriola', 'Roboto', serif;
+    background-color: #1512c2;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px -5px 14px #000000;
+}
+
+/* Responsividade */
+@media(max-width: 768px) {
+    .containerHeader {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 0px;
+    }
+    .logoTitulo {
+        grid-column: span 2 / span 2;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    .containerPesquisa {
+        grid-column: span 2 / span 2;
+        gap: 5px;
+    }
+    .logoHeader {
+        height: 110px;
+        width: auto;
+    }
+    .tituloHeader {
+        font-size: 1.6rem;
+        margin-top: 0;
+    }
+    .barraDePesquisa {
+        width: 270px;
+        height: 35px;
+        font-size: 1rem;
+    }
+    .botaoPesquisa {
+        width: 120px;
+        height: 50px;
+        font-size: medium;
+    }
+    section {
+        max-width: 100%;
+    }
+    .cardsContainer {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        padding: 10px;
+    }
+    footer {
+        padding: 10px;
+        font-size: 0.9rem;
+    }
 }

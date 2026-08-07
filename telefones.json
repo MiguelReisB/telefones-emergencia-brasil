@@ -1,482 +1,482 @@
 [
     {
-        "nome": "Direitos Humanos",
+        "nome": "✊ Direitos Humanos",
         "numero": "100",
-        "descricao": "Canal para relatar violações de direitos humanos, como violência contra crianças, idosos, pessoas com deficiência e outros grupos vulneráveis.",
+        "descricao": "Canal para relatar violações de direitos humanos, como violência contra crianças, idosos, pessoas com deficiência e outros grupos vulneráveis. Palavras-chave: abuso, maus-tratos, cárcere privado, exploração, racismo, homofobia, tortura, negligência, tráfico de pessoas.",
         "link": "https://www.gov.br/mdh/pt-br/ondh"
     },
     {
-        "nome": "Programa de Emprego/Renda - Caixa",
+        "nome": "💰 Programa de Emprego/Renda - Caixa",
         "numero": "111",
-        "descricao": "Central de informações da Caixa Econômica Federal sobre benefícios sociais, como o Bolsa Família, e programas de geração de renda.",
+        "descricao": "Central de informações da Caixa Econômica Federal sobre benefícios sociais, como o Bolsa Família, e programas de geração de renda. Palavras-chave: Bolsa Família, Auxílio Brasil, FGTS, PIS, seguro-desemprego, financiamento habitacional, programa social.",
         "link": "https://www.caixa.gov.br/programas-sociais/Paginas/default.aspx"
     },
     {
-        "nome": "Número Internacional de Emergência",
+        "nome": "🌍 Número Internacional de Emergência",
         "numero": "112",
-        "descricao": "Número de emergência aceito em celulares no Brasil, redirecionado para o 190 (Polícia Militar).",
+        "descricao": "Número de emergência aceito em celulares no Brasil, redirecionado para o 190 (Polícia Militar). Palavras-chave: turista estrangeiro, viagem, socorro internacional, celular sem chip, roaming.",
         "link": "https://tecnoblog.net/noticias/anatel-aprova-numeros-911-112-emergencia-brasil/"
     },
     {
-        "nome": "Neoenergia Coelba - Falta de Energia (BA)",
+        "nome": "⚡ Neoenergia Coelba - Falta de Energia (BA)",
         "numero": "116",
-        "descricao": "Distribuidora de energia elétrica do estado da Bahia. Número único nacional para falta de energia e emergências.",
+        "descricao": "Distribuidora de energia elétrica do estado da Bahia. Número único nacional para falta de energia e emergências. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.neoenergia.com/web/bahia"
     },
     {
-        "nome": "Equatorial Maranhão (Cemar) - Falta de Energia",
+        "nome": "⚡ Equatorial Maranhão (Cemar) - Falta de Energia",
         "numero": "116",
-        "descricao": "Distribuidora de energia elétrica do estado do Maranhão. Número único nacional para falta de energia e emergências.",
+        "descricao": "Distribuidora de energia elétrica do estado do Maranhão. Número único nacional para falta de energia e emergências. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://ma.equatorialenergia.com.br"
     },
     {
-        "nome": "Cemig - Falta de Energia (MG)",
+        "nome": "⚡ Cemig - Falta de Energia (MG)",
         "numero": "116",
-        "descricao": "Distribuidora de energia elétrica do estado de Minas Gerais. Número único nacional para falta de energia e emergências.",
+        "descricao": "Distribuidora de energia elétrica do estado de Minas Gerais. Número único nacional para falta de energia e emergências. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.cemig.com.br"
     },
     {
-        "nome": "Neoenergia Pernambuco (Celpe) - Falta de Energia",
+        "nome": "⚡ Neoenergia Pernambuco (Celpe) - Falta de Energia",
         "numero": "116",
-        "descricao": "Distribuidora de energia elétrica do estado de Pernambuco. Número único nacional para falta de energia e emergências.",
+        "descricao": "Distribuidora de energia elétrica do estado de Pernambuco. Número único nacional para falta de energia e emergências. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.neoenergia.com/web/pernambuco"
     },
     {
-        "nome": "Neoenergia Cosern - Falta de Energia (RN)",
+        "nome": "⚡ Neoenergia Cosern - Falta de Energia (RN)",
         "numero": "116",
-        "descricao": "Distribuidora de energia elétrica do estado do Rio Grande do Norte. Número único nacional para falta de energia e emergências.",
+        "descricao": "Distribuidora de energia elétrica do estado do Rio Grande do Norte. Número único nacional para falta de energia e emergências. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.neoenergia.com/web/rn"
     },
     {
-        "nome": "Ministério do Desenvolvimento Social",
+        "nome": "💰 Ministério do Desenvolvimento Social",
         "numero": "121",
-        "descricao": "Informações sobre programas sociais, como Bolsa Família, Cadastro Único e benefícios assistenciais.",
+        "descricao": "Informações sobre programas sociais, como Bolsa Família, Cadastro Único e benefícios assistenciais. Palavras-chave: Cadastro Único, CadÚnico, benefício social, vulnerabilidade, pobreza, auxílio.",
         "link": "https://www.gov.br/mds/pt-br"
     },
     {
-        "nome": "Conselhos Tutelares",
+        "nome": "🧒 Conselhos Tutelares",
         "numero": "125",
-        "descricao": "Contato para Conselhos Tutelares, responsáveis por proteger os direitos de crianças e adolescentes.",
+        "descricao": "Contato para Conselhos Tutelares, responsáveis por proteger os direitos de crianças e adolescentes. Palavras-chave: abuso infantil, evasão escolar, trabalho infantil, guarda, adoção, violência contra criança e adolescente.",
         "link": "https://www.gov.br/mdh/pt-br/navegue-por-temas/crianca-e-adolescente/conselhos-tutelares"
     },
     {
-        "nome": "Ministério Público",
+        "nome": "⚖️ Ministério Público",
         "numero": "127",
-        "descricao": "Canal de contato com o Ministério Público para denúncias e informações institucionais.",
+        "descricao": "Canal de contato com o Ministério Público para denúncias e informações institucionais. Palavras-chave: corrupção, improbidade administrativa, denúncia contra prefeito, fraude em licitação, crime contra o patrimônio público.",
         "link": "https://www.mpf.mp.br/"
     },
     {
-        "nome": "Emergência Mercosul",
+        "nome": "🌎 Emergência Mercosul",
         "numero": "128",
-        "descricao": "Número de emergência para turistas do Mercosul, podendo não estar ativo em todas as regiões.",
+        "descricao": "Número de emergência para turistas do Mercosul, podendo não estar ativo em todas as regiões. Palavras-chave: turista Mercosul, Argentina, Uruguai, Paraguai, acidente na fronteira.",
         "link": "https://www.mercosur.int/"
     },
     {
-        "nome": "Defensorias Públicas",
+        "nome": "⚖️ Defensorias Públicas",
         "numero": "129",
-        "descricao": "Acesso à Defensoria Pública para orientação jurídica gratuita a quem não pode pagar advogado.",
+        "descricao": "Acesso à Defensoria Pública para orientação jurídica gratuita a quem não pode pagar advogado. Palavras-chave: advogado gratuito, pensão alimentícia, divórcio, despejo, sem condições de pagar advogado, orientação jurídica.",
         "link": "https://www.gov.br/defensoria-publica-da-uniao/pt-br"
     },
     {
-        "nome": "Atendimento a Dependentes Químicos",
+        "nome": "💊 Atendimento a Dependentes Químicos",
         "numero": "132",
-        "descricao": "Serviço de apoio e informações sobre uso de drogas e álcool, com suporte para usuários e familiares.",
+        "descricao": "Serviço de apoio e informações sobre uso de drogas e álcool, com suporte para usuários e familiares. Palavras-chave: drogas, álcool, dependência química, internação, CAPS, apoio a familiares de dependentes.",
         "link": "https://mdbf.com.br/artigo/numeros-de-emergencia/"
     },
     {
-        "nome": "INSS",
+        "nome": "👴 INSS",
         "numero": "135",
-        "descricao": "Instituto Nacional do Seguro Social. Informações sobre aposentadoria, benefícios, agendamentos e demais serviços previdenciários.",
+        "descricao": "Instituto Nacional do Seguro Social. Informações sobre aposentadoria, benefícios, agendamentos e demais serviços previdenciários. Palavras-chave: aposentadoria, auxílio-doença, BPC, LOAS, pensão por morte, perícia médica, benefício previdenciário.",
         "link": "https://www.gov.br/inss/pt-br"
     },
     {
-        "nome": "Disque Saúde",
+        "nome": "🏥 Disque Saúde",
         "numero": "136",
-        "descricao": "Central de atendimento do Sistema Único de Saúde (SUS). Informações sobre vacinação, medicamentos, campanhas e serviços de saúde.",
+        "descricao": "Central de atendimento do Sistema Único de Saúde (SUS). Informações sobre vacinação, medicamentos, campanhas e serviços de saúde. Palavras-chave: vacina, posto de saúde, medicamento, campanha de vacinação, dúvida sobre saúde pública.",
         "link": "https://www.gov.br/saude/pt-br"
     },
     {
-        "nome": "BACEN - Banco Central do Brasil",
+        "nome": "🏦 BACEN - Banco Central do Brasil",
         "numero": "145",
-        "descricao": "Reclamações e denúncias contra bancos e instituições financeiras.",
+        "descricao": "Reclamações e denúncias contra bancos e instituições financeiras. Palavras-chave: banco, cartão de crédito, empréstimo abusivo, golpe bancário, Pix, conta bloqueada, taxa de juros.",
         "link": "https://www.bcb.gov.br/"
     },
     {
-        "nome": "Receita Federal do Brasil",
+        "nome": "🧾 Receita Federal do Brasil",
         "numero": "146",
-        "descricao": "Informações sobre Imposto de Renda, CPF, CNPJ e demais serviços da Receita Federal.",
+        "descricao": "Informações sobre Imposto de Renda, CPF, CNPJ e demais serviços da Receita Federal. Palavras-chave: Imposto de Renda, declaração, CPF irregular, restituição, malha fina, CNPJ.",
         "link": "https://www.gov.br/receitafederal/pt-br"
     },
     {
-        "nome": "Justiça Eleitoral",
+        "nome": "🗳️ Justiça Eleitoral",
         "numero": "148",
-        "descricao": "Informações sobre título de eleitor, zona eleitoral e demais serviços do TSE.",
+        "descricao": "Informações sobre título de eleitor, zona eleitoral e demais serviços do TSE. Palavras-chave: título de eleitor, votação, zona eleitoral, biometria, quitação eleitoral, transferência de domicílio eleitoral.",
         "link": "https://www.tse.jus.br/"
     },
     {
-        "nome": "Vigilância Sanitária",
+        "nome": "🧪 Vigilância Sanitária",
         "numero": "150",
-        "descricao": "Denúncias e informações sobre segurança sanitária de alimentos, produtos e estabelecimentos.",
+        "descricao": "Denúncias e informações sobre segurança sanitária de alimentos, produtos e estabelecimentos. Palavras-chave: alimento estragado, restaurante sujo, produto vencido, intoxicação alimentar, condições de higiene.",
         "link": "https://www.gov.br/anvisa/pt-br"
     },
     {
-        "nome": "Procon",
+        "nome": "🛒 Procon",
         "numero": "151",
-        "descricao": "Proteção e Defesa do Consumidor. Reclamações sobre produtos e serviços.",
+        "descricao": "Proteção e Defesa do Consumidor. Reclamações sobre produtos e serviços. Palavras-chave: propaganda enganosa, produto com defeito, cobrança indevida, garantia, troca de produto, direito do consumidor.",
         "link": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor"
     },
     {
-        "nome": "IBAMA",
+        "nome": "🌳 IBAMA",
         "numero": "152",
-        "descricao": "Denúncias ambientais, como desmatamento, maus-tratos a animais silvestres e crimes ambientais.",
+        "descricao": "Denúncias ambientais, como desmatamento, maus-tratos a animais silvestres e crimes ambientais. Palavras-chave: desmatamento, caça ilegal, animal silvestre preso, poluição, queimada, maus-tratos a animais, crime ambiental.",
         "link": "https://www.gov.br/ibama/pt-br"
     },
     {
-        "nome": "Guarda Municipal",
+        "nome": "🚨 Guarda Municipal",
         "numero": "153",
-        "descricao": "Número para acionar a Guarda Civil Municipal, que atua na segurança local e proteção do patrimônio público.",
+        "descricao": "Número para acionar a Guarda Civil Municipal, que atua na segurança local e proteção do patrimônio público. Palavras-chave: perturbação do sossego, ocupação irregular, patrimônio público, som alto, segurança em praças e parques.",
         "link": "https://www.gov.br/anatel/pt-br/assuntos/noticias/operadoras-deverao-programar-numero-153-da-guarda-municipal-como-servico-publico-de-emergencia"
     },
     {
-        "nome": "Detran",
+        "nome": "🚗 Detran",
         "numero": "154",
-        "descricao": "Departamento Estadual de Trânsito. Informações sobre CNH, veículos e infrações (varia por estado).",
+        "descricao": "Departamento Estadual de Trânsito. Informações sobre CNH, veículos e infrações (varia por estado). Palavras-chave: CNH, multa de trânsito, veículo roubado, transferência de veículo, prova teórica, licenciamento.",
         "link": "https://www.gov.br/infraestrutura/pt-br/assuntos/transito"
     },
     {
-        "nome": "Serviço Municipal (156)",
+        "nome": "🏛️ Serviço Municipal (156)",
         "numero": "156",
-        "descricao": "Central de atendimento da prefeitura para serviços municipais, como poda de árvores, iluminação pública e coleta de lixo (varia por cidade).",
+        "descricao": "Central de atendimento da prefeitura para serviços municipais, como poda de árvores, iluminação pública e coleta de lixo (varia por cidade). Palavras-chave: buraco na rua, poda de árvore, lâmpada queimada, coleta de lixo, animal solto na rua, serviço da prefeitura.",
         "link": "https://www.gov.br/pt-br/servicos-estaduais"
     },
     {
-        "nome": "SINE - Informações Sobre Emprego",
+        "nome": "💼 SINE - Informações Sobre Emprego",
         "numero": "157",
-        "descricao": "Sistema Nacional de Emprego. Informações sobre vagas, seguro-desemprego e qualificação profissional.",
+        "descricao": "Sistema Nacional de Emprego. Informações sobre vagas, seguro-desemprego e qualificação profissional. Palavras-chave: vaga de emprego, seguro-desemprego, carteira de trabalho, qualificação profissional, requalificação.",
         "link": "https://www.gov.br/trabalho-e-emprego/pt-br"
     },
     {
-        "nome": "ANAC - Agência Nacional de Aviação Civil",
+        "nome": "✈️ ANAC - Agência Nacional de Aviação Civil",
         "numero": "163",
-        "descricao": "Reclamações e informações sobre companhias aéreas, voos e direitos do passageiro.",
+        "descricao": "Reclamações e informações sobre companhias aéreas, voos e direitos do passageiro. Palavras-chave: voo cancelado, atraso de voo, bagagem extraviada, overbooking, indenização de passageiro aéreo.",
         "link": "https://www.gov.br/anac/pt-br"
     },
     {
-        "nome": "ANP - Agência Nacional do Petróleo",
+        "nome": "⛽ ANP - Agência Nacional do Petróleo",
         "numero": "164",
-        "descricao": "Denúncias e informações sobre combustíveis, gás natural e biocombustíveis.",
+        "descricao": "Denúncias e informações sobre combustíveis, gás natural e biocombustíveis. Palavras-chave: posto de gasolina, preço abusivo de combustível, botijão de gás, adulteração de combustível.",
         "link": "https://www.gov.br/anp/pt-br"
     },
     {
-        "nome": "Disque Idoso",
+        "nome": "👵 Disque Idoso",
         "numero": "165",
-        "descricao": "Canal de denúncias e orientações sobre violência, negligência ou maus-tratos contra pessoas idosas.",
+        "descricao": "Canal de denúncias e orientações sobre violência, negligência ou maus-tratos contra pessoas idosas. Palavras-chave: idoso abandonado, maus-tratos a idoso, negligência em asilo, violência contra pessoa idosa.",
         "link": "https://www.gov.br/mdh/pt-br/navegue-por-temas/pessoa-idosa"
     },
     {
-        "nome": "ANTT - Agência Nacional de Transportes Terrestres",
+        "nome": "🚛 ANTT - Agência Nacional de Transportes Terrestres",
         "numero": "166",
-        "descricao": "Reclamações e informações sobre transporte rodoviário e ferroviário de passageiros e cargas.",
+        "descricao": "Reclamações e informações sobre transporte rodoviário e ferroviário de passageiros e cargas. Palavras-chave: ônibus rodoviário, transportadora, frete, pedágio, caminhão, transporte de cargas.",
         "link": "https://www.gov.br/antt/pt-br"
     },
     {
-        "nome": "ANEEL",
+        "nome": "⚡ ANEEL",
         "numero": "167",
-        "descricao": "Agência Nacional de Energia Elétrica. Reclamações contra distribuidoras de energia, quando não resolvidas diretamente com a concessionária.",
+        "descricao": "Agência Nacional de Energia Elétrica. Reclamações contra distribuidoras de energia, quando não resolvidas diretamente com a concessionária. Palavras-chave: conta de luz alta, corte indevido, reclamação contra distribuidora de energia não resolvida.",
         "link": "https://www.gov.br/aneel/pt-br"
     },
     {
-        "nome": "Central de Atendimento à Mulher",
+        "nome": "🚺 Central de Atendimento à Mulher",
         "numero": "180",
-        "descricao": "Canal para denúncias de violência contra a mulher, com acolhimento e orientação sobre direitos e serviços.",
+        "descricao": "Canal para denúncias de violência contra a mulher, com acolhimento e orientação sobre direitos e serviços. Palavras-chave: violência doméstica, agressão, assédio, medida protetiva, feminicídio, ameaça.",
         "link": "https://www.gov.br/mdh/pt-br/ligue180"
     },
     {
-        "nome": "Disque Denúncia",
+        "nome": "🕵️ Disque Denúncia",
         "numero": "181",
-        "descricao": "Canal para denúncias anônimas sobre crimes, como tráfico de drogas e violência.",
+        "descricao": "Canal para denúncias anônimas sobre crimes, como tráfico de drogas e violência. Palavras-chave: tráfico de drogas, boca de fumo, crime organizado, denúncia anônima.",
         "link": "https://pt.wikipedia.org/wiki/Disque_Den%C3%BAncia"
     },
     {
-        "nome": "Marinha - Salvamento Marítimo/Fluvial",
+        "nome": "⚓ Marinha - Salvamento Marítimo/Fluvial",
         "numero": "185",
-        "descricao": "Serviço de emergência da Marinha para resgates no mar ou em rios.",
+        "descricao": "Serviço de emergência da Marinha para resgates no mar ou em rios. Palavras-chave: afogamento, naufrágio, resgate no mar, resgate em rio, embarcação à deriva.",
         "link": "https://www.marinha.mil.br/salvamar-brasil/"
     },
     {
-        "nome": "Linha da Vida (CVV)",
+        "nome": "❤️ Linha da Vida (CVV)",
         "numero": "188",
-        "descricao": "Apoio emocional e prevenção do suicídio, oferecido pelo Centro de Valorização da Vida (CVV).",
+        "descricao": "Apoio emocional e prevenção do suicídio, oferecido pelo Centro de Valorização da Vida (CVV). Palavras-chave: crise emocional, pensamento suicida, desespero, solidão, apoio psicológico gratuito, saúde mental.",
         "link": "https://www.cvv.org.br/"
     },
     {
-        "nome": "Polícia Militar",
+        "nome": "🚓 Polícia Militar",
         "numero": "190",
-        "descricao": "Número de emergência para acionar a Polícia Militar em casos de crimes ou situações de perigo imediato.",
+        "descricao": "Número de emergência para acionar a Polícia Militar em casos de crimes ou situações de perigo imediato. Palavras-chave: assalto, roubo, briga, invasão, disparo de arma, flagrante, perigo imediato.",
         "link": "https://fdr.com.br/2025/08/11/190-192-ou-193-entenda-para-qual-numero-ligar-em-caso-de-emergencia/"
     },
     {
-        "nome": "Polícia Rodoviária Federal",
+        "nome": "🛣️ Polícia Rodoviária Federal",
         "numero": "191",
-        "descricao": "Emergências e denúncias em rodovias federais, como acidentes e crimes.",
+        "descricao": "Emergências e denúncias em rodovias federais, como acidentes e crimes. Palavras-chave: acidente em rodovia federal, carro quebrado na pista, contrabando, fiscalização de trânsito na estrada.",
         "link": "https://www.gov.br/prf/pt-br"
     },
     {
-        "nome": "SAMU",
+        "nome": "🚑 SAMU",
         "numero": "192",
-        "descricao": "Serviço de ambulância para emergências médicas e atendimento pré-hospitalar rápido.",
+        "descricao": "Serviço de ambulância para emergências médicas e atendimento pré-hospitalar rápido. Palavras-chave: infarto, AVC, parada cardíaca, acidente grave, mal súbito, parto de emergência.",
         "link": "https://fdr.com.br/2025/08/11/190-192-ou-193-entenda-para-qual-numero-ligar-em-caso-de-emergencia/"
     },
     {
-        "nome": "Corpo de Bombeiros",
+        "nome": "🚒 Corpo de Bombeiros",
         "numero": "193",
-        "descricao": "Emergências como incêndios, resgates e desastres naturais.",
+        "descricao": "Emergências como incêndios, resgates e desastres naturais. Palavras-chave: incêndio, resgate em altura, animal preso, vazamento de gás, desabamento, afogamento, salvamento.",
         "link": "https://fdr.com.br/2025/08/11/190-192-ou-193-entenda-para-qual-numero-ligar-em-caso-de-emergencia/"
     },
     {
-        "nome": "Polícia Federal",
+        "nome": "🕵️ Polícia Federal",
         "numero": "194",
-        "descricao": "Canal para denúncias de crimes federais, como contrabando e crimes cibernéticos.",
+        "descricao": "Canal para denúncias de crimes federais, como contrabando e crimes cibernéticos. Palavras-chave: passaporte, crime cibernético, tráfico internacional, contrabando, extradição.",
         "link": "https://www.gov.br/pf/pt-br/acesso-a-informacao/institucional/quem-e-quem"
     },
     {
-        "nome": "SABESP",
+        "nome": "💧 SABESP",
         "numero": "195",
-        "descricao": "Atendimento para emergências de água e esgoto no estado de São Paulo.",
+        "descricao": "Atendimento para emergências de água e esgoto no estado de São Paulo. Palavras-chave: falta d'água, vazamento, esgoto entupido, água suja, emergência de saneamento em São Paulo.",
         "link": "https://site.sabesp.com.br/"
     },
     {
-        "nome": "Apoio COVID-19",
+        "nome": "😷 Apoio COVID-19",
         "numero": "196",
-        "descricao": "Informações e orientações sobre COVID-19 e saúde em geral, disponível em alguns estados.",
+        "descricao": "Informações e orientações sobre COVID-19 e saúde em geral, disponível em alguns estados. Palavras-chave: sintomas de covid, teste, isolamento, vacinação contra covid, orientação de saúde.",
         "link": "https://ictq.com.br/farmacia-clinica/2319-pais-tera-linha-de-emergencia-para-atender-pessoas-com-doenca-mental"
     },
     {
-        "nome": "Polícia Civil",
+        "nome": "🕵️ Polícia Civil",
         "numero": "197",
-        "descricao": "Denúncias e informações sobre investigações criminais junto à Polícia Civil.",
+        "descricao": "Denúncias e informações sobre investigações criminais junto à Polícia Civil. Palavras-chave: registro de ocorrência, boletim de ocorrência, investigação, furto, estelionato.",
         "link": "https://pt.wikipedia.org/wiki/Pol%C3%ADcia_Civil_do_Brasil"
     },
     {
-        "nome": "Polícia Rodoviária Estadual",
+        "nome": "🚧 Polícia Rodoviária Estadual",
         "numero": "198",
-        "descricao": "Emergências e informações sobre trânsito em rodovias estaduais.",
+        "descricao": "Emergências e informações sobre trânsito em rodovias estaduais. Palavras-chave: acidente em rodovia estadual, fiscalização estadual, batida na pista.",
         "link": "https://www.seguranca.pr.gov.br/Telefones-Uteis"
     },
     {
-        "nome": "Defesa Civil",
+        "nome": "🌊 Defesa Civil",
         "numero": "199",
-        "descricao": "Atendimento em desastres naturais, como enchentes e deslizamentos, e ações preventivas.",
+        "descricao": "Atendimento em desastres naturais, como enchentes e deslizamentos, e ações preventivas. Palavras-chave: enchente, deslizamento, temporal, risco de desabamento, área de risco, alagamento.",
         "link": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil"
     },
     {
-        "nome": "Anatel",
+        "nome": "📶 Anatel",
         "numero": "1331",
-        "descricao": "Agência Nacional de Telecomunicações. Reclamações e dúvidas sobre operadoras de telefonia, internet e TV por assinatura (código completo 133+1; 133+2 para deficientes auditivos).",
+        "descricao": "Agência Nacional de Telecomunicações. Reclamações e dúvidas sobre operadoras de telefonia, internet e TV por assinatura (código completo 133+1; 133+2 para deficientes auditivos). Palavras-chave: internet fora do ar, celular sem sinal, cobrança indevida da operadora, TV a cabo, telefone fixo.",
         "link": "https://www.gov.br/anatel/pt-br"
     },
     {
-        "nome": "CEG - Gás Natural (RJ)",
+        "nome": "🔥 CEG - Gás Natural (RJ)",
         "numero": "(21) 3115-6565",
-        "descricao": "Companhia Distribuidora de Gás do Rio de Janeiro, distribuidora estadual de gás natural canalizado.",
+        "descricao": "Companhia Distribuidora de Gás do Rio de Janeiro, distribuidora estadual de gás natural canalizado. Palavras-chave: cheiro de gás, vazamento de gás, fogão sem gás, botijão, gás encanado.",
         "link": "https://www.ceg.com.br"
     },
     {
-        "nome": "CEBGÁS - Gás Natural (DF)",
+        "nome": "🔥 CEBGÁS - Gás Natural (DF)",
         "numero": "(61) 3322-2100",
-        "descricao": "Companhia Brasiliense de Gás, distribuidora de gás natural canalizado no Distrito Federal.",
+        "descricao": "Companhia Brasiliense de Gás, distribuidora de gás natural canalizado no Distrito Federal. Palavras-chave: cheiro de gás, vazamento de gás, fogão sem gás, botijão, gás encanado.",
         "link": "https://www.cebgas.com.br"
     },
     {
-        "nome": "Bahiagás - Gás Natural (BA)",
+        "nome": "🔥 Bahiagás - Gás Natural (BA)",
         "numero": "(71) 3206-6000",
-        "descricao": "Companhia de Gás da Bahia, distribuidora estadual de gás natural canalizado.",
+        "descricao": "Companhia de Gás da Bahia, distribuidora estadual de gás natural canalizado. Palavras-chave: cheiro de gás, vazamento de gás, fogão sem gás, botijão, gás encanado.",
         "link": "https://www.bahiagas.com.br"
     },
     {
-        "nome": "Comgás - Emergência Gás Natural (SP)",
+        "nome": "🔥 Comgás - Emergência Gás Natural (SP)",
         "numero": "0800 011 0197",
-        "descricao": "Distribuidora de gás natural canalizado da região metropolitana de São Paulo e outros municípios. Vazamentos e emergências 24h.",
+        "descricao": "Distribuidora de gás natural canalizado da região metropolitana de São Paulo e outros municípios. Vazamentos e emergências 24h. Palavras-chave: cheiro de gás, vazamento de gás, fogão sem gás, botijão, gás encanado.",
         "link": "https://www.comgas.com.br"
     },
     {
-        "nome": "COPASA - Água e Esgoto (MG)",
+        "nome": "💧 COPASA - Água e Esgoto (MG)",
         "numero": "0800 030 0115",
-        "descricao": "Companhia de Saneamento de Minas Gerais. Falta d'água, vazamentos e atendimento comercial.",
+        "descricao": "Companhia de Saneamento de Minas Gerais. Falta d'água, vazamentos e atendimento comercial. Palavras-chave: falta d'água, sem água, vazamento na rua, esgoto entupido, conta de água, qualidade da água.",
         "link": "https://www.copasa.com.br"
     },
     {
-        "nome": "Celesc - Falta de Energia (SC)",
+        "nome": "⚡ Celesc - Falta de Energia (SC)",
         "numero": "0800 048 0196",
-        "descricao": "Distribuidora de energia elétrica do estado de Santa Catarina. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Santa Catarina. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.celesc.com.br"
     },
     {
-        "nome": "SABESP - Água e Esgoto (SP)",
+        "nome": "💧 SABESP - Água e Esgoto (SP)",
         "numero": "0800 055 0195",
-        "descricao": "Companhia de Saneamento Básico do Estado de São Paulo. Falta d'água, vazamentos e atendimento comercial.",
+        "descricao": "Companhia de Saneamento Básico do Estado de São Paulo. Falta d'água, vazamentos e atendimento comercial. Palavras-chave: falta d'água, sem água, vazamento na rua, esgoto entupido, conta de água, qualidade da água.",
         "link": "https://site.sabesp.com.br"
     },
     {
-        "nome": "Equatorial Goiás - Falta de Energia",
+        "nome": "⚡ Equatorial Goiás - Falta de Energia",
         "numero": "0800 062 0196",
-        "descricao": "Distribuidora de energia elétrica do estado de Goiás. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Goiás. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://go.equatorialenergia.com.br"
     },
     {
-        "nome": "Energisa Sergipe - Falta de Energia",
+        "nome": "⚡ Energisa Sergipe - Falta de Energia",
         "numero": "0800 079 0196",
-        "descricao": "Distribuidora de energia elétrica do estado de Sergipe. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Sergipe. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "COMPESA - Água e Esgoto (PE)",
+        "nome": "💧 COMPESA - Água e Esgoto (PE)",
         "numero": "0800 081 0195",
-        "descricao": "Companhia Pernambucana de Saneamento. Falta d'água, vazamentos e atendimento comercial em Pernambuco.",
+        "descricao": "Companhia Pernambucana de Saneamento. Falta d'água, vazamentos e atendimento comercial em Pernambuco. Palavras-chave: falta d'água, sem água, vazamento na rua, esgoto entupido, conta de água, qualidade da água.",
         "link": "https://servicos.compesa.com.br"
     },
     {
-        "nome": "Equatorial Alagoas - Falta de Energia",
+        "nome": "⚡ Equatorial Alagoas - Falta de Energia",
         "numero": "0800 082 0196",
-        "descricao": "Distribuidora de energia elétrica do estado de Alagoas. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Alagoas. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://al.equatorialenergia.com.br"
     },
     {
-        "nome": "Energisa Paraíba - Falta de Energia",
+        "nome": "⚡ Energisa Paraíba - Falta de Energia",
         "numero": "0800 083 0196",
-        "descricao": "Distribuidora de energia elétrica de parte do estado da Paraíba. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica de parte do estado da Paraíba. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "Equatorial Piauí (Cepisa) - Falta de Energia",
+        "nome": "⚡ Equatorial Piauí (Cepisa) - Falta de Energia",
         "numero": "0800 086 0800",
-        "descricao": "Distribuidora de energia elétrica do estado do Piauí. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Piauí. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://pi.equatorialenergia.com.br"
     },
     {
-        "nome": "Equatorial Pará (Celpa) - Falta de Energia",
+        "nome": "⚡ Equatorial Pará (Celpa) - Falta de Energia",
         "numero": "0800 091 0196",
-        "descricao": "Distribuidora de energia elétrica do estado do Pará. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Pará. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://pa.equatorialenergia.com.br"
     },
     {
-        "nome": "CEA Equatorial Amapá - Falta de Energia",
+        "nome": "⚡ CEA Equatorial Amapá - Falta de Energia",
         "numero": "0800 096 0196",
-        "descricao": "Distribuidora de energia elétrica do estado do Amapá. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Amapá. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://ap.equatorialenergia.com.br"
     },
     {
-        "nome": "Light - Falta de Energia (RJ)",
+        "nome": "⚡ Light - Falta de Energia (RJ)",
         "numero": "0800 282 0120",
-        "descricao": "Distribuidora de energia elétrica da região metropolitana do Rio de Janeiro. O interior do estado pode ser atendido pela Enel Rio.",
+        "descricao": "Distribuidora de energia elétrica da região metropolitana do Rio de Janeiro. O interior do estado pode ser atendido pela Enel Rio. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.light.com.br"
     },
     {
-        "nome": "CEDAE - Água e Esgoto (RJ)",
+        "nome": "💧 CEDAE - Água e Esgoto (RJ)",
         "numero": "0800 282 1195",
-        "descricao": "Companhia Estadual de Águas e Esgotos do Rio de Janeiro. Falta d'água, vazamentos e atendimento comercial.",
+        "descricao": "Companhia Estadual de Águas e Esgotos do Rio de Janeiro. Falta d'água, vazamentos e atendimento comercial. Palavras-chave: falta d'água, sem água, vazamento na rua, esgoto entupido, conta de água, qualidade da água.",
         "link": "https://www.cedae.com.br"
     },
     {
-        "nome": "Enel Ceará - Falta de Energia",
+        "nome": "⚡ Enel Ceará - Falta de Energia",
         "numero": "0800 285 0196",
-        "descricao": "Distribuidora de energia elétrica do estado do Ceará. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Ceará. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.enel.com.br/pt-ceara"
     },
     {
-        "nome": "Copel - Falta de Energia (PR)",
+        "nome": "⚡ Copel - Falta de Energia (PR)",
         "numero": "0800 510 0116",
-        "descricao": "Distribuidora de energia elétrica do estado do Paraná. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Paraná. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.copel.com"
     },
     {
-        "nome": "Neoenergia Brasília - Falta de Energia (DF)",
+        "nome": "⚡ Neoenergia Brasília - Falta de Energia (DF)",
         "numero": "0800 644 6116",
-        "descricao": "Distribuidora de energia elétrica do Distrito Federal. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do Distrito Federal. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.neoenergia.com/web/brasilia"
     },
     {
-        "nome": "SANEAGO - Água e Esgoto (GO)",
+        "nome": "💧 SANEAGO - Água e Esgoto (GO)",
         "numero": "0800 645 0115",
-        "descricao": "Saneamento de Goiás. Falta d'água, vazamentos e atendimento comercial.",
+        "descricao": "Saneamento de Goiás. Falta d'água, vazamentos e atendimento comercial. Palavras-chave: falta d'água, sem água, vazamento na rua, esgoto entupido, conta de água, qualidade da água.",
         "link": "https://www.saneago.com.br"
     },
     {
-        "nome": "Energisa Mato Grosso - Falta de Energia",
+        "nome": "⚡ Energisa Mato Grosso - Falta de Energia",
         "numero": "0800 646 4196",
-        "descricao": "Distribuidora de energia elétrica do estado de Mato Grosso. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Mato Grosso. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "CORSAN - Água e Esgoto (RS)",
+        "nome": "💧 CORSAN - Água e Esgoto (RS)",
         "numero": "0800 646 6444",
-        "descricao": "Companhia Riograndense de Saneamento. Falta d'água, vazamentos e atendimento comercial no Rio Grande do Sul.",
+        "descricao": "Companhia Riograndense de Saneamento. Falta d'água, vazamentos e atendimento comercial no Rio Grande do Sul. Palavras-chave: falta d'água, sem água, vazamento na rua, esgoto entupido, conta de água, qualidade da água.",
         "link": "https://www.corsan.com.br"
     },
     {
-        "nome": "Energisa Rondônia - Falta de Energia",
+        "nome": "⚡ Energisa Rondônia - Falta de Energia",
         "numero": "0800 647 0120",
-        "descricao": "Distribuidora de energia elétrica do estado de Rondônia. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Rondônia. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "Energisa Acre - Falta de Energia",
+        "nome": "⚡ Energisa Acre - Falta de Energia",
         "numero": "0800 647 7196",
-        "descricao": "Distribuidora de energia elétrica do estado do Acre. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Acre. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "Amazonas Energia - Falta de Energia",
+        "nome": "⚡ Amazonas Energia - Falta de Energia",
         "numero": "0800 701 3001",
-        "descricao": "Distribuidora de energia elétrica do estado do Amazonas. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Amazonas. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://website.amazonasenergia.com"
     },
     {
-        "nome": "Roraima Energia - Falta de Energia",
+        "nome": "⚡ Roraima Energia - Falta de Energia",
         "numero": "0800 701 9120",
-        "descricao": "Distribuidora de energia elétrica do estado de Roraima. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Roraima. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.roraimaenergia.com.br"
     },
     {
-        "nome": "EDP Espírito Santo - Falta de Energia",
+        "nome": "⚡ EDP Espírito Santo - Falta de Energia",
         "numero": "0800 721 0707",
-        "descricao": "Distribuidora de energia elétrica do estado do Espírito Santo. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Espírito Santo. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.edp.com.br"
     },
     {
-        "nome": "CEEE Equatorial - Falta de Energia (RS)",
+        "nome": "⚡ CEEE Equatorial - Falta de Energia (RS)",
         "numero": "0800 721 2333",
-        "descricao": "Uma das distribuidoras de energia elétrica do estado do Rio Grande do Sul (parte do estado é atendida pela RGE).",
+        "descricao": "Uma das distribuidoras de energia elétrica do estado do Rio Grande do Sul (parte do estado é atendida pela RGE). Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://ceee.equatorialenergia.com.br"
     },
     {
-        "nome": "Energisa Tocantins - Falta de Energia",
+        "nome": "⚡ Energisa Tocantins - Falta de Energia",
         "numero": "0800 721 3330",
-        "descricao": "Distribuidora de energia elétrica do estado do Tocantins. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado do Tocantins. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "Energisa Mato Grosso do Sul - Falta de Energia",
+        "nome": "⚡ Energisa Mato Grosso do Sul - Falta de Energia",
         "numero": "0800 722 7272",
-        "descricao": "Distribuidora de energia elétrica do estado de Mato Grosso do Sul. Emergências, falta de luz e atendimento comercial.",
+        "descricao": "Distribuidora de energia elétrica do estado de Mato Grosso do Sul. Emergências, falta de luz e atendimento comercial. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.energisa.com.br"
     },
     {
-        "nome": "Cigás - Gás Natural (AM)",
+        "nome": "🔥 Cigás - Gás Natural (AM)",
         "numero": "0800 723 3202",
-        "descricao": "Companhia de Gás do Amazonas, distribuidora estadual de gás natural canalizado.",
+        "descricao": "Companhia de Gás do Amazonas, distribuidora estadual de gás natural canalizado. Palavras-chave: cheiro de gás, vazamento de gás, fogão sem gás, botijão, gás encanado.",
         "link": "https://www.cigas-am.com.br"
     },
     {
-        "nome": "Enel São Paulo - Falta de Energia",
+        "nome": "⚡ Enel São Paulo - Falta de Energia",
         "numero": "0800 72 72 196",
-        "descricao": "Distribuidora de energia elétrica da região metropolitana e parte do interior de São Paulo. Outras regiões do estado são atendidas por CPFL e EDP.",
+        "descricao": "Distribuidora de energia elétrica da região metropolitana e parte do interior de São Paulo. Outras regiões do estado são atendidas por CPFL e EDP. Palavras-chave: falta de luz, sem energia, apagão, fio caído, poste danificado, curto-circuito, religação, conta de luz.",
         "link": "https://www.enel.com.br/pt-saopaulo.html"
     },
     {
-        "nome": "Cegás - Gás Natural (CE)",
+        "nome": "🔥 Cegás - Gás Natural (CE)",
         "numero": "(85) 3266-6900",
-        "descricao": "Companhia de Gás do Ceará, distribuidora estadual de gás natural canalizado.",
+        "descricao": "Companhia de Gás do Ceará, distribuidora estadual de gás natural canalizado. Palavras-chave: cheiro de gás, vazamento de gás, fogão sem gás, botijão, gás encanado.",
         "link": "https://www.cegas.com.br"
     }
 ]

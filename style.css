@@ -1,4 +1,4 @@
-/* fontes */
+/* fontes locais */
 @font-face {
   font-family: 'Roboto';
   src: url('fonts/Roboto-VariableFont_wdth-wght.ttf') format('truetype');
@@ -7,152 +7,261 @@
 }
 
 @font-face {
-  font-family: 'Merriweather';
-  src: url('fonts/Merriweather-VariableFont_opsz-wdth-wght.ttf') format('truetype');
-  font-weight: 300;
+  font-family: 'Inter';
+  src: url('fonts/Poppins-Bold.ttf') format('truetype');
+  font-weight: 800;
   font-style: normal;
 }
-
-
 @font-face {
-  font-family: 'Capriola';
-  src: url('fonts/Capriola-Regular.ttf') format('truetype');
+  font-family: 'Inter';
+  src: url('fonts/Poppins-Light.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'ScienceGothic';
-  src: url('fonts/ScienceGothic-VariableFont_CTRS-slnt-wdth-wght.ttf') format('truetype');
-  font-weight: 800;
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-VariableFont_wght.ttf') format('truetype');
+  font-weight: 400;
   font-style: normal;
 }
 
-
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-VariableFont_wght.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
 /* Página */
-body{
+body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: #4b7510;
+    background-color: #f8fafc;
+    color: #0f172a;
+    font-family: 'Inter', 'Roboto', 'Segoe UI', sans-serif;
 }
-header{
-    font-family: 'ScienceGothic', 'Merriweather', serif;
+
+header {
     margin: 0;
     padding: 0;
     position: sticky;
-}
-.containerHeader{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-    padding-bottom: 15px;
-    margin: 0 auto;
-    background-color: #ffffff;
-    box-shadow: 0px 5px 17px #000000;
-}
-.logoTitulo{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 30px;
-}
-.containerPesquisa{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 40px;
-    gap: 10px;
-}
-.logoHeader{
-    width: auto;
-    height: 150px;
-    filter: drop-shadow(0px 10px 10px #1512c2);
-}
-.tituloHeader{
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 30px;
+    top: 0;
+    z-index: 10;
 }
 
-.barraDePesquisa{
-    font-family: 'Roboto', 'Merriweather', serif;
-    font-size: 1.3rem;
-    width: 350px;
-    height: 40px;
-    padding: 7px;
-    border-radius: 15px;
-    border: 2px solid #303030;
-    transition: all 0.5s ease;
-}
-.barraDePesquisa:hover{
-    border-color: #1512c2;
-    box-shadow: 0 0 10px #1512c2;
-}
-.barraDePesquisa:focus{
-    outline: none;
-    border-color: #1512c2;
-    box-shadow: 0 0 10px #1512c2;
-}
-.barraDePesquisa::placeholder{
-    text-align: center;
-}
-.botaoPesquisa{
-    font-family: 'Capriola', 'Roboto', serif;
-    font-size: large;
-    width: 120px;
-    height: 50px;
-    margin-left: 10px;
-    border-radius: 20px;
-    border: none;
-    background-color: #1512c2;
-    color: white;
-    cursor: pointer;
-    transition: all 0.5s ease;
-}
-.botaoPesquisa:hover{
-    background-color: #1292ce;
-    box-shadow: 0 0 15px #1292ce;
-}
-.botaoPesquisa:active{
-    transform: scale(0.85);
-}
-main{
-    flex: 1;
-    width: min(80rem, 100%);
-    margin: 0 auto;
-    overflow-y: auto;
-    background-color: #ffffff;
-    padding-bottom: 2rem;
-    box-sizing: border-box;
-}
-.cardsContainer {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    padding: 20px;
-}
-.card{
+.containerHeader {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 32px;
+    margin: 0 auto;
+    background: linear-gradient(135deg, #0f172a 0%, #111827 100%);
+    color: #ffffff;
+    box-shadow: 0 12px 35px rgba(15, 23, 42, 0.18);
+}
+
+.logoTitulo {
+    display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
+    gap: 20px;
+}
+
+.containerPesquisa {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(10px);
+}
+
+.logoHeader {
+    width: auto;
+    height: 110px;
+    filter: drop-shadow(0px 10px 16px rgba(37, 100, 235, 0.568));
+    transition: all 0.3s ease;
+}
+
+.logoHeader:hover {
+    transform: scale(1.05);
+}
+
+.tituloHeader {
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-size: clamp(1.5rem, 2.2vw, 2.2rem);
+    font-weight: 700;
     text-align: center;
-    padding: 20px;
-    border-radius: 10px;
-    background-color: #9deb28;
-    box-shadow: 0px 5px 15px #000000;
+    margin: 0;
+    color: #ffffff;
+    filter: drop-shadow(0px 10px 16px rgb(37, 100, 235));
 }
-article{
-    font-family: 'Merriweather', 'Roboto', serif;
-    font-size: 1.2rem;
-    margin: 10px 0;
+
+.barraDePesquisa {
+    font-family: 'Inter', 'Roboto', 'Segoe UI', sans-serif;
+    font-size: 1rem;
+    width: min(320px, 45vw);
+    height: 44px;
+    padding: 0 16px;
+    border-radius: 999px;
+    border: none;
+    outline: none;
+    transition: all 0.3s ease;
+    color: #0f172a;
 }
+
+.barraDePesquisa::placeholder {
+    text-align: left;
+    color: #64748b;
+}
+
+.barraDePesquisa:focus {
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+}
+
+.botaoPesquisa {
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    min-width: 110px;
+    height: 44px;
+    margin-left: 0;
+    border-radius: 999px;
+    border: none;
+    background-color: #2563eb;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.botaoPesquisa:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-1px);
+    box-shadow: 0 10px 18px rgba(37, 99, 235, 0.22);
+}
+
+.botaoPesquisa:active {
+    transform: scale(0.97);
+}
+
+main {
+    flex: 1;
+    width: min(90rem, 100%);
+    margin: 0 auto;
+    overflow-y: auto;
+    background: transparent;
+    padding: 2rem 1rem 3rem;
+    box-sizing: border-box;
+}
+
+.cardsContainer {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 55px;
+    padding: 8px 0;
+}
+
+.card {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: left;
+    padding: 24px;
+    border-radius: 22px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    min-height: 100%;
+}
+
+.card h2 {
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-size: 1.35rem;
+    margin: 0 0 10px;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.3;
+}
+
+.descricaoTelefone {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin: 0 0 12px;
+    color: #475569;
+}
+
+.numeroTelefone {
+    font-family: 'Manrope', 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin: 8px 0 0;
+    color: #2563eb;
+}
+
+.botoesCard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 16px;
+}
+
+.botaoSaibaMais,
+.botaoLigar {
+    display: inline-flex;
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 10px 16px;
+    border-radius: 999px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    background-color: #2563eb;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.botaoLigar {
+    background-color: #16a34a;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.botaoSaibaMais:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-1px);
+}
+
+.botaoLigar:hover {
+    background-color: #15803d;
+    transform: translateY(-1px);
+}
+
+article {
+    font-family: 'Manrope', 'Inter', sans-serif;
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.6;
+}
+
 .nenhumResultadoCard {
     grid-column: span 2 / span 2;
     display: flex;
@@ -160,69 +269,137 @@ article{
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 20px;
-    border-radius: 10px;
-    background-color: #f6faf0;
-    box-shadow: 0px 5px 15px #000000;
+    padding: 24px;
+    border-radius: 22px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
 }
-footer{
+
+.nenhumResultadoCard:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.12);
+}
+
+footer {
     width: 100%;
-    font-family: 'Capriola', 'Roboto', serif;
-    background-color: #1512c2;
-    color: white;
+    font-family: 'Poppins', 'Inter', sans-serif;
+    background-color: #0f172a;
+    color: #e2e8f0;
     text-align: center;
     padding: 20px;
     box-sizing: border-box;
-    box-shadow: 0px -5px 14px #000000;
+    font-weight: 400;
+}
+.autoria{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2rem;
+}
+.doAutor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 0.9rem;
+    text-align: center;
+    margin-top: 20px;
+}
+.redeSocial img{
+    filter: invert(1);
+    width: 40px;
+    height: 40px;
+    margin-left: 8px;
+    transition: all 0.3s ease;
+}
+.redeSocial img:hover{
+    transform: scale(1.1);
 }
 
 /* Responsividade */
-@media(max-width: 768px) {
+@media (max-width: 768px) {
     .containerHeader {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-        gap: 0px;
-    }
-    .logoTitulo {
-        grid-column: span 2 / span 2;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
+        gap: 16px;
+        padding: 10px 10px;
     }
+
+    .logoTitulo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0;
+        gap: 12px;
+    }
+
     .containerPesquisa {
-        grid-column: span 2 / span 2;
-        gap: 5px;
+        flex-direction: column;
+        width: 90%;
+        max-width: 360px;
+        padding: 10px;
+        border: none;
+        border-radius: none;
+        background: none;
     }
+
     .logoHeader {
-        height: 110px;
+        height: 96px;
         width: auto;
     }
+
     .tituloHeader {
-        font-size: 1.6rem;
-        margin-top: 0;
+        font-size: 1.35rem;
+        margin: 0;
     }
+
     .barraDePesquisa {
-        width: 270px;
-        height: 35px;
-        font-size: 1rem;
+        width: 90%;
+        height: 42px;
+        font-size: 0.95rem;
     }
+
     .botaoPesquisa {
-        width: 120px;
-        height: 50px;
-        font-size: medium;
+        width: 40%;
+        height: 42px;
+        font-size: 0.95rem;
     }
+
     section {
         max-width: 100%;
     }
+
     .cardsContainer {
         grid-template-columns: 1fr;
-        gap: 10px;
-        padding: 10px;
+        gap: 50px;
+        padding: 0;
     }
+
+    .card,
+    .nenhumResultadoCard {
+        padding: 20px;
+    }
+
     footer {
-        padding: 10px;
+        padding: 14px 12px;
         font-size: 0.9rem;
     }
+}
+.doAutor {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.autoria {
+    font-size: 0.8rem;
+}
+.redeSocial img{
+    width: 30px;
+    height: 30px;
 }

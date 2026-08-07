@@ -1,5 +1,12 @@
 let dados = [];
 
+const isMobile = (() => {
+    const userAgentMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || navigator.userAgentData?.mobile === true;
+    const hasTouchScreen = (navigator.maxTouchPoints && navigator.maxTouchPoints > 0) || window.matchMedia('(pointer: coarse)').matches;
+    return userAgentMobile && hasTouchScreen;
+})();
+const hasWhatsApp = false; // Futura funcionalidade??
+
 window.addEventListener('DOMContentLoaded', async () => {
     const cardContainer = document.querySelector('.cardsContainer');
     const inputBusca = document.querySelector('#caixaDeBusca');
@@ -41,19 +48,22 @@ async function iniciarBusca(inputBusca, cardContainer) {
 function renderizarCards(dados, cardContainer) {
     cardContainer.innerHTML = '';
     if (dados.length === 0) {
-        cardContainer.innerHTML = '<div class="nenhumResultadoCard"><h2>Nenhum resultado encontrado. Tente utilizar outro termo ou número.</h2></div>';
+        cardContainer.innerHTML = '<div class="nenhumResultadoCard"><h2>Nenhum resultado encontrado :(<br> Tente utilizar outro termo ou número.</h2></div>';
         return;
     }
 
-    for (let dado of dados) {
+    for (let dado of dados) {   
         let article = document.createElement('article');
         article.classList.add('card');
         article.innerHTML = `
-            <h2>${dado.nome}</h2>
-            <p>${dado.descricao}</p>
-            <p><strong>Telefone:</strong> ${dado.numero}</p>
-            <a href="${dado.link}" target="_blank" rel="noopener noreferrer">Saiba mais</a>
-        `;
+            <h2>${dado.nome.toUpperCase()}</h2>
+            <p class="descricaoTelefone">${dado.descricao}</p>
+            <p class="numeroTelefone"><strong>Telefone:</strong> ${dado.numero}</p>
+            <div class="botoesCard">
+                <a href="${dado.link}" target="_blank" rel="noopener noreferrer" class="botaoSaibaMais">Saiba mais<img src="/assets/iconeSeta.svg" alt="Ícone direcionamento"></a>
+                ${isMobile ? `<a href="tel:${dado.numero.replace(/\D/g, '')}" class="botaoLigar">Ligar<img src="/assets/iconeTelefone.svg" alt="Ícone telefone"></a>` : ''}
+            </div>
+            `;
         cardContainer.appendChild(article);
     }
 }

@@ -1,6 +1,10 @@
-<video src="https://github.com/user-attachments/assets/9bffc745-0391-4a0b-92bb-53d211b3d7e5" autoplay loop></video>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9bffc745-0391-4a0b-92bb-53d211b3d7e5" autoplay loop muted playsinline></video>
+</div>
+
   <h1 align="center">Telefones de Emergência Brasil
 </h1>
+
 Uma página web simples, rápida e sem distrações para encontrar o número certo de telefone na hora que mais importa.
 
 ## O problema a ser resolvido

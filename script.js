@@ -31,7 +31,7 @@ function removerAcentos(texto) {
 }
 
 
-async function iniciarBusca(inputBusca, cardContainer) {
+function iniciarBusca(inputBusca, cardContainer) {
     const termoBusca = removerAcentos(inputBusca.value.trim().toLowerCase());
     if (!termoBusca) {
         renderizarCards(dados, cardContainer);
@@ -52,7 +52,8 @@ function renderizarCards(dados, cardContainer) {
         return;
     }
 
-    for (let dado of dados) {   
+ const fragment = document.createDocumentFragment();
+    for (let dado of dados) {
         let article = document.createElement('article');
         article.classList.add('card');
         article.innerHTML = `
@@ -64,6 +65,7 @@ function renderizarCards(dados, cardContainer) {
                 ${isMobile ? `<a href="tel:${dado.numero.replace(/\D/g, '')}" class="botaoLigar">Ligar<img src="assets/iconeTelefone.svg" alt="Ícone telefone"></a>` : ''}
             </div>
             `;
-        cardContainer.appendChild(article);
+        fragment.appendChild(article);
     }
+    cardContainer.appendChild(fragment); // uma única escrita no DOM
 }

@@ -1,36 +1,42 @@
 /* fontes locais */
 @font-face {
   font-family: 'Roboto';
-  src: url('fonts/Roboto-VariableFont_wdth-wght.ttf') format('truetype');
+  src: url('fonts/Roboto-VariableFont_wdth-wght.woff') format('woff');
   font-weight: 500;
   font-style: normal;
-}
-
-@font-face {
-  font-family: 'Inter';
-  src: url('fonts/Poppins-Bold.ttf') format('truetype');
-  font-weight: 800;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Inter';
-  src: url('fonts/Poppins-Light.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Poppins';
-  src: url('fonts/Poppins-VariableFont_wght.ttf') format('truetype');
+  src: url('fonts/Poppins-Bold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/Inter-VariableFont_opsz-wght.woff') format('woff');
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Manrope';
-  src: url('fonts/Manrope-VariableFont_wght.ttf') format('truetype');
+  src: url('fonts/Manrope-VariableFont_wght.woff') format('woff');
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 /* Página */
 body {
@@ -187,7 +193,7 @@ main {
 
 .card h2 {
     font-family: 'Poppins', 'Inter', sans-serif;
-    font-size: 1.35rem;
+    font-size: 1.4rem;
     margin: 0 0 10px;
     font-weight: 700;
     color: #0f172a;
@@ -195,7 +201,8 @@ main {
 }
 
 .descricaoTelefone {
-    font-size: 1.1rem;
+    font-family: 'Inter', 'Roboto', sans-serif;
+    font-size: 1.2rem;
     line-height: 1.6;
     margin: 0 0 12px;
     color: #475569;
@@ -237,7 +244,12 @@ main {
 }
 
 .botaoLigar {
-    background-color: #16a34a;
+    background-color: #15803d;
+}
+
+.botaoLigar:hover {
+    background-color: #14532d;
+    transform: translateY(-1px);
 }
 
 .card:hover {
@@ -247,11 +259,6 @@ main {
 
 .botaoSaibaMais:hover {
     background-color: #1d4ed8;
-    transform: translateY(-1px);
-}
-
-.botaoLigar:hover {
-    background-color: #15803d;
     transform: translateY(-1px);
 }
 

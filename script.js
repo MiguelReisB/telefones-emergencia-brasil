@@ -61,8 +61,8 @@ function renderizarCards(dados, cardContainer) {
             <p class="descricaoTelefone">${dado.descricao}</p>
             <p class="numeroTelefone"><strong>Telefone:</strong> ${dado.numero}</p>
             <div class="botoesCard">
-                <a href="${dado.link}" target="_blank" rel="noopener noreferrer" class="botaoSaibaMais">Saiba mais<img src="assets/iconeSeta.svg" alt="Ícone direcionamento"></a>
-                ${isMobile ? `<a href="tel:${dado.numero.replace(/\D/g, '')}" class="botaoLigar">Ligar<img src="assets/iconeTelefone.svg" alt="Ícone telefone"></a>` : ''}
+                <a href="${dado.link}" target="_blank" rel="noopener noreferrer" class="botaoSaibaMais">Saiba mais<img src="assets/iconeSeta.svg" alt="Ícone direcionamento" width="25" height="25"></a>
+                ${isMobile ? `<a href="tel:${dado.numero.replace(/\D/g, '')}" class="botaoLigar">Ligar<img src="assets/iconeTelefone.svg" alt="Ícone telefone" Width="25" height="25"></a>` : ''}
             </div>
             `;
         fragment.appendChild(article);

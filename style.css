@@ -323,6 +323,19 @@ footer {
 .redeSocial img:hover{
     transform: scale(1.1);
 }
+.coracao{
+    display: inline-block;
+    animation: pulsar 0.8s ease-in-out infinite;
+}
+
+@keyframes pulsar{
+    0%, 100%{
+        transform: scale(0.9)
+    }
+    25%, 50%{
+        transform: scale(1.2)
+    }
+}
 
 /* Responsividade */
 @media (max-width: 768px) {

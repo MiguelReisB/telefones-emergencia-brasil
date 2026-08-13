@@ -308,7 +308,18 @@ footer {
     transform: scale(1.1);
 }
 
-
+.coracao{
+    display: inline-block;
+    animation: pulsar 1s ease-in-out infinite;
+}
+@keyframes pulsar{
+    0%, 100%{
+        transform: scale(0.9)
+    }
+    50%{
+        transform: scale(1.1)
+    }
+}
 /* Responsividade */
 @media (max-width: 768px) {
     .containerHeader {
